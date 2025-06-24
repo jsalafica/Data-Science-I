@@ -1,0 +1,6 @@
+HORA,BOROUGH,VEHICLE TYPE CODE 1,CONTRIBUTING FACTOR VEHICLE 1
+15,BRONX,Sedan,Passing Too Closely
+21,BROOKLYN,Sedan,Reaction to Uninvolved Vehicle
+0,BRONX,Station Wagon/Sport Utility Vehicle,Unsafe Speed
+17,BROOKLYN,Sedan,Failure to Yield Right-of-Way
+19,BRONX,Station Wagon/Sport Utility Vehicle,Unspecified
