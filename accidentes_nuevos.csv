@@ -4,3 +4,4 @@ HORA,BOROUGH,VEHICLE TYPE CODE 1,CONTRIBUTING FACTOR VEHICLE 1
 0,BRONX,Station Wagon/Sport Utility Vehicle,Unsafe Speed
 17,BROOKLYN,Sedan,Failure to Yield Right-of-Way
 19,BRONX,Station Wagon/Sport Utility Vehicle,Unspecified
+20,MANHATTAN,Sedan,Unsafe Speed
